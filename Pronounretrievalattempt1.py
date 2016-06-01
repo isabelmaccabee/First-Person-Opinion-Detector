@@ -13,11 +13,10 @@ for folder in folders:
 
 		file = open('Examples/' + folder + "/" + filename)
 		source = file.read() 
-		# sourceWithoutQuotes = re.sub(r'“[^”]*”', "", source)
 		sourceWithoutQuotes = re.sub(r'“(.*?)”', "", source)
-		# if filename == "Politics Immigration article.txt":
+		sourceWithoutQuotes = re.sub(r'‘(.*?)”', "", sourceWithoutQuotes)
+		# if filename == "MEN - Salford Mayor.txt":
 		# 	print sourceWithoutQuotes
-		# sourceWithoutQuotes = source.replace(/\"[^\"]*\"/, "")
 		pronouns = ["i", "my", "me", "mine", "we", "us", "our", "ours"] 
 
 		count = 0
