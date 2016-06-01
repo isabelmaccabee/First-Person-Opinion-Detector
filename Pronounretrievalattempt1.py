@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import os
+import glob
 import re
 
 folders = ["Non-Opinion", "Opinion"]
@@ -8,10 +8,10 @@ for folder in folders:
 	print folder
 	countopinion = 0
 
-	filenames = os.listdir('Examples/' + folder)
+	filenames = glob.glob('Examples/' + folder + '/*.txt')
 	for filename in filenames:
 
-		file = open('Examples/' + folder + "/" + filename)
+		file = open(filename)
 		source = file.read() 
 		sourceWithoutQuotes = re.sub(r'“(.*?)”', "", source)
 		sourceWithoutQuotes = re.sub(r'‘(.*?)”', "", sourceWithoutQuotes)
@@ -32,5 +32,5 @@ for folder in folders:
 		# if count > 10:
 		# 	countopinion += 1
 
-		print str(count) + " " + str(format(pronounperword, '.2f')) + " " + filename
+		print str(count) + " " + str(format(pronounperword, '.2f')) + " " + filename.replace('Examples/' + folder + "/", '')
 	print float(countopinion)/float(len(filenames)) * 100
