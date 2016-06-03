@@ -13,12 +13,15 @@ for folder in folders:
 
 		file = open(filename)
 		source = file.read() 
-		sourceWithoutQuotes = re.sub(r'“(.*?)”', "", source)
+		sourceWithoutParagraphs = re.sub(r'\n', " ", source)
+		# if filename == "Examples/Non-Opinion/MEN - Shoplifter.txt":
+		# 	print sourceWithoutParagraphs
+		sourceWithoutQuotes = re.sub(r'“(.*?)”', "", sourceWithoutParagraphs)
 		sourceWithoutQuotes = re.sub(r'[‘“](.*?)[”’\n]', "", sourceWithoutQuotes)
 
-		# print filename
-		if filename == "Examples/Non-Opinion/MEN - Shoplifter.txt":
-			print sourceWithoutQuotes
+		# # print filename
+		# if filename == "Examples/Non-Opinion/MEN - Shoplifter.txt":
+		# 	print sourceWithoutQuotes
 		pronouns = ["i", "my", "me", "mine", "we", "us", "our", "ours"] 
 
 		count = 0
@@ -29,7 +32,7 @@ for folder in folders:
 		    	# print word
 
 		pronounperword = float(count/float(len(words)))
-		if pronounperword > 0.02:
+		if pronounperword > 0.01:
 			countopinion += 1
 		# if count > 10:
 		# 	countopinion += 1
