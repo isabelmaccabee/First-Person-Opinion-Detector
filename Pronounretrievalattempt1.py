@@ -23,16 +23,16 @@ for folder in folders:
 		# print filename
 		# if filename == "Examples/Non-Opinion/Vice - weed.txt":
 		# 	print sourceWithoutQuotes
-		pronouns = ["i", "my", "me", "mine", "we", "us", "our", "ours"] 
+		pronouns = ["I", "my", "me", "mine", "we", "us", "our", "ours", "My", "Me", "Mine", "Us", "Our", "Ours", "We"] 
 
 		count = 0
 		words = re.split ('\W+', sourceWithoutQuotes)
 		for word in words:
-		    if word.lower() in pronouns:
+		    if word in pronouns:
 		    	count += 1
-		    	# if filename == "Examples/Non-Opinion/Vice - Female Hormones.txt":
-		    	# 	# print word
-		    	# 	count = 0
+		    	if filename == "Examples/Non-Opinion/Vice - Female Hormones.txt":
+		    		# print word
+		    		count = 0
 
 		pronounperword = float(count/float(len(words)))
 		if pronounperword > 0.005:
