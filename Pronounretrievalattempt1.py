@@ -2,7 +2,7 @@
 import glob
 import re
 
-folders = ["Non-Opinion", "Opinion"]
+folders = ["Non-Opinion", "Opinion", "Text_bodies"]
 for folder in folders:
 	print ""
 	print folder

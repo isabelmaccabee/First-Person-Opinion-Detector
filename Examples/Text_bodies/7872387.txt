@@ -1,0 +1,3 @@
+That file type is not supported!
+
+Supported formats: JPEG, GIF, PNG, APNG, TIFF, BMP, PDF, XCF

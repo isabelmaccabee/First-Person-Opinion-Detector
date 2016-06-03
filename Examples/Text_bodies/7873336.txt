@@ -1,0 +1,11 @@
+Internet se ha convertido en una de las opciones más utilizadas para la búsqueda de empleo, y lo más frecuente es recurrir a compañías que se dedican precisamente a esto, a poner en contacto a empresas con vacantes libres y adultos que buscan trabajo. Ahora bien, este tipo de plataformas siguen requiriendo búsquedas y acciones manuales que gracias a este bot de Facebook Messenger, parecen cosa del siglo pasado. De forma automática, este bot se encarga de encontrar el puesto de trabajo que el usuario busca.
+
+Job Pal es el primer bot de Facebook Messenger diseñado para encontrar trabajo de la forma más sencilla posible
+
+También te puede interesar
+
+Como si se tratase de una conversación típica en cualquier aplicación de mensajería instantánea, si estamos buscando trabajo podemos abrir un chat con Job Pal y comentarle en torno a qué sectores estamos dispuestos a trabajar y dónde nos gustaría encontrar la oportunidad laboral. En base a esto, y gracias a que Job Pal cuenta ya con acuerdos con más de 1.000 empresas, se devuelve una lista completa de todos los posibles puestos de trabajo en los que, según nuestras preferencias, encajaríamos. Ahora bien, también hay que seguir enviando el currículo o una carta de presentación para pasar el proceso de selección.
+
+Lo que evita este 'bot' es la tarea de buscar de forma manual en diversas plataformas las ofertas de trabajo de empresas que se dediquen al sector que nos interesa. Gracias a la base de datos con que cuenta, que es actualizada por las propias empresas que cuentan con un acuerdo con Job Pal, esta búsqueda se hace de forma automática, y los filtros de selección no se introducen como estamos acostumbrados en servicios similares, sino sencillamente conversando con el bot.
+
+Como otros, este bot ha sido posible gracias a una de las actualizaciones más recientes de la red social, que cuenta ya con más de 900 millones de usuarios activos en todo el mundo y que, según comentaba Mark Zuckerberg recientemente, tiene en el vídeo uno de sus pilares básicos de crecimiento para los próximos años. Pero este punto, el de la inteligencia artificial, también es importante para el desarrollo futuro de la plataforma de mensajería instantánea.
