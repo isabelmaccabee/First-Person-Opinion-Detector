@@ -1,0 +1,269 @@
+Subscribe
+
+Twitter
+
+Facebook
+
+LinkedIn
+
+Tumblr
+
+Share
+
+© 2016 Time Inc. All rights reserved.
+
+<div class="header-nav-links-nojs">
+
+<ul>
+
+<li>
+
+<a href="http://fortune.com/category/tech">TECH</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/management">MANAGEMENT</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/finance">FINANCE</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/markets">MARKETS</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/careers">CAREERS</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/autos">AUTOS</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/international">INTERNATIONAL</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/retail">RETAIL</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/features">FEATURES</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/category/small-business">SMALL BUSINESS</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/video">VIDEO</a>
+
+</li>
+
+<li>
+
+<a href="http://fortune.com/magazine">MAGAZINE</a>
+
+</li>
+
+<li>
+
+<a href="http://www.fortuneconferences.com/">FORTUNE CONFERENCES</a>
+
+</li>
+
+</ul>
+
+</div>					<div class="content-well">
+
+<div class="page-wrapper">
+
+<header class="article-header">
+
+<div class="related-tags-and-headline">
+
+<div class="article-tags">
+
+<a class="article-section-tag" itemprop="articleSection" href="http://fortune.com/leadership/">Leadership</a>
+
+<a class="article-primary-tag" itemprop="articleSection" href="http://fortune.com/tag/power-sheet/">Power Sheet</a>
+
+</div>
+
+</header>
+
+<article id="post-1683815" class="post-1683815 post type-post status-publish format-standard hentry category-leadership tag-power-sheet syndication-fortune-syndicate" itemscope itemtype="http://schema.org/Article">
+
+<header class="entry-header">
+
+<h1 class="entry-title">Power Sheet – June 3, 2016</h1>
+
+</header><!-- .entry-header -->
+
+<div class="article-byline">
+
+<ul class="article-byline-authors article-byline-item">
+
+<li>by&nbsp;</li>
+
+<li>
+
+<a href="http://fortune.com/author/geoff-colvin/" itemprop="author" class="article-byline-author">
+
+<span>Geoff Colvin</span>
+
+</a>
+
+</li>
+
+</ul>
+
+<ul class="article-byline-twitters article-byline-item">
+
+<li>
+
+<a href="https://twitter.com/FortuneMagazine" target="_blank" class="author-byline-twitter">@FortuneMagazine</a>
+
+</li>
+
+</ul>
+
+<time pubdate="" datetime="10:03 AM EDT" itemprop="datePublished" class="article-byline-time article-byline-item">10:03 AM EDT</time>
+
+<div class="social-icons article-byline-social article-social"><div class="article-social-wrapper">
+
+<ul class="social-tooltip article-social-icons">
+
+<li>
+
+<a aria-hidden="true" class="soc-track icon-mail"  href="mailto:?subject=Power Sheet – June 3, 2016&body=Power Sheet – June 3, 2016" data-share='{ "event_name" : "social_share", "social_network" : "email" , "click_id" : "share-email-button" }'></a>
+
+<span class="screen-reader-text">E-mail</span>
+
+</li>
+
+<li>
+
+<a aria-hidden="true" class="soc-track icon-twitter" target="_blank" href="https://twitter.com/share?url=&text=Power Sheet – June 3, 2016 via @FortuneMagazine" data-share='{ "event_name" : "social_share", "social_network" : "twitter" , "click_id" : "share-twitter-button" }'></a>
+
+<span class="screen-reader-text">Tweet</span>
+
+</li>
+
+<li>
+
+<a aria-hidden="true" class="soc-track icon-facebook" target="_blank" href="http://www.facebook.com/sharer.php?u=&t=Power Sheet – June 3, 2016 on Fortune.com" data-share='{ "event_name" : "social_share", "social_network" : "facebook" , "click_id" : "share-facebook-button" }'></a>
+
+<span class="screen-reader-text">Facebook</span>
+
+</li>
+
+<li>
+
+<a aria-hidden="true" class="soc-track icon-linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title= on Fortune.com:&amp;source=Fortune" data-share='{ "event_name" : "social_share", "social_network" : "linkedin" , "click_id" : "share-linkedin-button" }'></a>
+
+<span class="screen-reader-text">Linkedin</span>
+
+</li>
+
+</ul>
+
+<span title="Click to view article share options" aria-hidden="true" class="icon-share show-all-social-icon"></span>
+
+<span class="screen-reader-text">Share icons</span></div></div>
+
+</div>
+
+<figure class="article-primary-image featured-img-article_full">
+
+</figure>
+
+<div class="entry-content">
+
+<p><strong>Paul Ryan</strong>’s <a href="http://www.gazettextra.com/20160602/paul_ryan_donald_trump_can_help_make_reality_of_bold_house_policy_agenda">tepid endorsement</a> of <strong>Donald Trump</strong> yesterday, in which he did not say he “endorses” or “supports” Trump, raises the question of whether political endorsements actually make any difference. This one might because it could at least encourage donors worried that a Trump victory would do nothing to advance their policy priorities. But some political professionals have told me they never met a voter who voted for any candidate because so-and-so endorsed him or her. The feeling seems to be that orchestrating a steady drumbeat of endorsements for Candidate X might eventually build a sort of general comfort with X among voters, and even if not, endorsements can’t do any harm.</p>
+
+<p>Or can they? One of this race’s many odd features has been endorsements by fans who may not be doing their favored candidate any favors at all. Consider:</p>
+
+<p>Trump’s fans include Russian President <strong>Vladimir Putin</strong>, who called him “a very bright and talented man. ” The admiration is mutual. “I think that I would probably get along with him very well,” Trump said. “He’s running his country, and at least he’s a leader.” This week an official North Korean newspaper called Trump “a wise politician and a prescient presidential candidate.” That assessment wouldn’t get printed if dictator <strong>Kim Jong-un</strong> didn’t approve.</p>
+
+<p>In the U.S., white nationalist <strong>David Duke</strong> endorsed Trump, who hemmed and hawed for a while before repudiating the endorsement. More recently, a Ku Klux Klan leader in Virginia endorsed him, saying, “The reason a lot of Klan members like Donald Trump is because a lot of what he believes, we believe in.” Sports stars? <strong>Dennis Rodman</strong> favors Trump. So does <strong>Richie Incognito</strong>, the NFL lineman who became unemployable for a year-and-a-half after a bullying scandal and who NFL players once voted the league’s dirtiest player. Former pharma CEO <strong>Martin Shkreli</strong>, arguably America’s most loathed business person, has endorsed Trump even though Trump trashed him last fall when he was in the news. And the <em>National Enquirer</em> has thrown its weight behind the Donald.</p>
+
+<p><strong>Hillary Clinton</strong>’s list of endorsers, though far longer than Trump’s, includes fewer cringe-inducing names. Still, it includes some notable ones. <em>Hustler</em> magazine publisher and porn video producer <strong>Larry Flynt</strong> probably isn’t helping her as much as he’d like by supporting her. The same may be true of former Italian Prime Minister <strong>Silvio Berlusconi</strong>, convicted tax cheat and enthusiastic <a href="https://en.wikipedia.org/wiki/Bunga_bunga">bunga-bunga</a> participant. Clinton probably won’t be trumpeting the endorsement of Theranos founder and CEO <strong>Elizabeth Holmes</strong> now that government regulators are seeking to ban her for two years from owning or running a blood testing lab. Ditto the endorsement of former Massachusetts Governor <strong>Michael Dukakis</strong>, the 1988 Democratic presidential nominee who lost in a massive landslide to <strong>George H.W. Bush</strong>.</p>
+
+<p>On Tuesday night, Venezuelan President <strong>Nicolas Maduro</strong>, whose country is starving and in an economic meltdown, endorsed “our revolutionary friend,” <strong>Bernie Sanders</strong>.</p>
+
+<p>Undoubtedly this is only the beginning for Trump and Clinton. With five months until the election, they’ll both receive many more such gifts, to which the only response can be, “You shouldn’t have. Really.”</p>
+
+<p><em>You can share Power Sheet with friends and followers <a href="http://fortune.com/newsletter/powersheet/">here</a></em>.</p>
+
+</div><!-- .entry-content -->
+
+</article><!-- #post- -->
+
+<div class="navigation">
+
+<ul>
+
+<li>
+
+<a href="http://fortune.com/2016/06/03/shkreli-trump-twitter-rant/" rel="prev">&larr; Here’s What ‘The Most Hated Man in America’ Thinks About Donald Trump</a>								</li>
+
+<li>
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="navigation"></div>
+
+Sign In
+
+Thank you for your interest in licensing Fortune content. Please find information on various licensing contacts below and choose the one that best suits your needs:
+
+1. To license Fortune articles, excerpts, or headlines for republication in various media (including books, eBooks, film, web, newsletters, newspapers, magazines and others), please email syndication@timeinc.com.
+
+2. To license a Fortune cover, order reprint or e-print copies of an article or cover, or license an accolade, please contact PARS International at www.timeincreprints.com.
+
+3. To license text only photocopies of Fortunearticles as print or digital handouts in academic settings, or in academic coursepacks, please contact the Copyright Clearance Center at www.copyright.com
+
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035728&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" />
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1041628332/?value=0&amp;guid=ON&amp;script=0"/>
+
+</div>
+
+<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1610053349230002&amp;ev=PixelInitialized" />
+
+<img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" />
+
+About Cookies on this site:For more information on the cookies we use and how you can manage your cookie settings, please go to our cookie policy.

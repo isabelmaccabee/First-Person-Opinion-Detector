@@ -35,10 +35,18 @@ for folder in folders:
 		    		count = 0
 
 		pronounperword = float(count/float(len(words)))
-		if pronounperword > 0.005:
+		if pronounperword > 0.003:
 			countopinion += 1
-		# if count > 10:
+		if pronounperword > 0.003 and folder == "Text_bodies": 
+			print "YES"
 		# 	countopinion += 1
 
 		print str(count) + " " + str(format(pronounperword, '.3f')) + " " + filename.replace('Examples/' + folder + "/", '')
 	print float(countopinion)/float(len(filenames)) * 100
+	# if folder == "Text_bodies" and pronounperword > 0.003:
+	# 	print filename.replace('Examples/' + folder + "/", '')
+
+
+
+
+

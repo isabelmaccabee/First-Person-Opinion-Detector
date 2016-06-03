@@ -1,0 +1,13 @@
+A beautiful thing about science is that it’s constantly revised. In 1929, Edwin Hubble discovered that the universe was expanding. This means that the galaxies around ours are moving away from us as space is also expanding. As my Astronomy 101 professor explained it (and as plenty have before), you can think of as a sort of inflating balloon.
+
+This week, astronomers working with the Hubble Space Telescope have determined that the universe is expanding faster than previously thought—between 5 and 9 percent faster, to be precise.
+
+This new number comes after the scientists, led by Adam Reiss, who won the Nobel prize in 2011 for finding evidence that universe expansion is speeding up, measured pulsating Cepheid stars in 19 galaxies. Then, the observed brightness of the stars were compare with their true brightness, and scientists calculated their distance to supernovae in faraway galaxies. Those distances were then compared with the expansion of space (which is calculated by observing how light stretches from from receding galaxies). These two values went into what is called the Hubble constant, which is the rate at which the universe is expanding.
+
+The new Hubble constant value is 73.2 kilometers per second per megaparsec. And when the team was comparing that value with the Wilkinson Microwave Anisotropy Probe and ESA’s Planck satellite predictions, the numbers came out to be 5 and 9 percent smaller, respectively.
+
+Now, there are a couple of reasons for this discrepancy: dark energy might be shoving galaxies away from each other with growing strength. Or, new subatomic particles that travel close to the speed of light (known as dark radiation) could be throwing of the predictions. Or, for the third in the trifecta of “dark” elements of space: dark matter might have some strange characteristics we don’t know about yet.
+
+“This surprising finding may be an important clue to understanding those mysterious parts of the universe that make up 95 percent of everything and don't emit light, such as dark energy, dark matter, and dark radiation," Riess said in a press release.
+
+And it might also put Einstein’s general theory of relativity to the test. This revised Hubble constant is is more accurate than it ever has been before, with an uncertainty of about 2.4 percent, compared with the previous 3.3 percent. A team of astronomers are now working with Hubble to reduce the uncertainty in the Hubble constant to get it down to 1 percent.

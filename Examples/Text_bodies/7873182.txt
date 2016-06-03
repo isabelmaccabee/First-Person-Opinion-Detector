@@ -1,0 +1,191 @@
+Resend Email Verification
+
+To sign in you must verify your email address. Fill out the form below and we'll send you an email to verify.
+
+{* #resendVerificationForm *}
+
+{* resendVerification_emailAddress *}
+
+{* newPasswordFormButton *}
+
+{* /resendVerificationForm *}
+
+Please change your display name.
+
+Your Display Name is unavailable.
+
+{* #postLoginForm1 *}
+
+{*postLogin_displayName *}
+
+{* postLogin_acceptButton *}
+
+{* /postLoginForm1 *}
+
+Your Verification Email Has Been Sent
+
+Check your email for a link to reset your password.
+
+Sign in
+
+Account Deletion
+
+Are you sure you want to permanently delete your Fox News Digital account? You will lose your activity history and email preferences.
+
+{* confirmDeactivateForm *}
+
+{* confirmDeactivateButton *}
+
+{* /confirmDeactivateForm *}
+
+You did it!
+
+Your password has been successfully changed.
+
+Change Your Password
+
+{* newPasswordForm *}
+
+{* oldpassword *}
+
+{* newpassword *}
+
+{* newpasswordConfirm *}
+
+{* /newPasswordForm *}
+
+Member Profile
+
+{* public_displayName *}
+
+{* member_since *}
+
+{* public_city *}
+
+{* public_state *}
+
+{* public_country *}
+
+{* public_birthdate *}
+
+{* public_gender *}
+
+{* slider_public *}
+
+User Stats
+
+Likes
+
+Shares
+
+{* public_shares *}
+
+Sign In
+
+Welcome back,   (not you?)
+
+{* #userInformationForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* traditionalSignIn_password *}
+
+{* traditionalSignIn_signInButton *}
+
+{* /userInformationForm *}
+
+You're Almost Done!
+
+Complete the following form to submit your registration.
+
+{* #socialRegistrationForm *}
+
+{* socialRegistration_firstName *}
+
+{* socialRegistration_lastName *}
+
+{* socialRegistration_displayName *}
+
+{* socialRegistration_emailAddress *}
+
+{* registration_birthday *}
+
+{* gender *}
+
+{* registration_zip *}
+
+{* politicalViewsRegistration *}
+
+This information will stay private unless you choose to make it public within your user profile.
+
+Liberal
+
+Democrat
+
+Independent
+
+Republican
+
+Conservative
+
+Terms of Service
+
+{* agreeToTerms *}
+
+{* socialRegistration_button *}
+
+{* /socialRegistrationForm *}
+
+Thank you for registering!
+
+Once you confirm your email address you will be able to access commenting and exclusive content on all the Fox News Digital websites!
+
+Verify your email
+
+We just sent an email to your account to verify your email address. Check your inbox and click on the link to confirm your account.
+
+Forgot My Password
+
+Enter your current email address, and we'll send you instructions to create a new password.
+
+{* #forgotPasswordForm *}
+
+{* forgotPassword_emailAddress *}
+
+{* forgotPassword_sendButton *}
+
+{* /forgotPasswordForm *}
+
+Forgot My Password
+
+Success! You should receive an email shortly with instructions to change your password.
+
+Close
+
+{* mergeAccounts {"custom": true} *}
+
+Create a Fox News Account
+
+It looks like you've been here before. We already have an account for:
+
+{| current_emailAddress |}
+
+Connect this session with your existing account
+
+   Connect
+
+Forgot Password?
+
+Not You? Continue creating a new account
+
+  {| current_provider |}
+
+Sign in to complete account merge
+
+{* #tradAuthenticateMergeForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* traditionalSignIn_password *}
+
+{* /tradAuthenticateMergeForm *}

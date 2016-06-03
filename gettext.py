@@ -24,7 +24,8 @@ for item in bodyJson['items']:
 	bodyJson = json.loads(body)
 
 	article_text = bodyJson['metadata']['http://schema.org/text']
-
-	file = open('Examples/Text_bodies/' + article_id + ".txt", 'w')
-	file.write(article_text.encode('utf8'))
-	file.close
+	language = bodyJson['metadata']['http://freebird.prototyping.bbc.co.uk/ns#language']
+	if language == 'en':
+		file = open('Examples/Text_bodies/' + article_id + ".txt", 'w')
+		file.write(article_text.encode('utf8'))
+		file.close
